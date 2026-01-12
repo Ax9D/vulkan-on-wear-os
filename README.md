@@ -4,7 +4,11 @@ A Rust demo of Vulkan rendering on WearOS, powered by the [Hikari](https://githu
 
 Demo running on my Oneplus Watch 2:
 
-https://github.com/user-attachments/assets/3618dfdc-5464-43f8-852a-e78bfe67f5da
+
+
+https://github.com/user-attachments/assets/6fa21cef-fa87-4b96-8475-47fa201ca5e1
+
+
 
 
 ## Prerequisites
