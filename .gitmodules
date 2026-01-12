@@ -1,0 +1,4 @@
+[submodule "vendor/Hikari"]
+	path = vendor/Hikari
+	url = https://github.com/Ax9D/Hikari
+    branch = wearos
